@@ -1,3 +1,5 @@
+![Alt text](https://github.com/songjayu/STUDYING/blob/main/PHOTOS/FJhv3LJ.jpeg)</br>
+
 ## 오늘 TIL 3줄 요약
 
 - 인터프리트 언어는 오류를 빨리 알기 어렵다.
